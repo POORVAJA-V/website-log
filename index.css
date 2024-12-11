@@ -1,0 +1,51 @@
+.boxContainer {
+    background-color: #f5f7fa;
+    border-radius: 15px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #cbd2d9;
+    border-width: 1px;
+    margin:20px;
+}
+.boxContainer1{
+    background-color: #f5f7fa;
+    border-radius: 15px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #cbd2d9;
+    border-width: 1px;
+    margin:20px;
+}
+
+.goggle-box {
+    color: #323f4b;
+}
+
+ul {
+    list-style: none;
+}
+
+label {
+    color: #7b8794;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.button {
+    background-color: #2d3a8c;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 10px;
+}
+.cardHeading{
+    font-size:30px;
+    font-weight:700;
+    margin-top:30px;
+    margin-left:20px;
+}
+@media screen and (max-width:600px){
+    .boxContainer1{
+        height:50vh;
+    }
+
+}
